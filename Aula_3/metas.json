@@ -1,0 +1,14 @@
+[
+  {
+    "value": "Ler um livro durante 15 minutos todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Beber 2L todos os dias",
+    "checked": true
+  },
+  {
+    "value": "Caminhar 3x na semana",
+    "checked": false
+  }
+]
