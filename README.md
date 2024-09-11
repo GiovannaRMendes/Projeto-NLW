@@ -1,4 +1,4 @@
-## NLW Pocket: JavaScript
+## NLW Pocket: JavaScript da Rocketseat
 
 O projeto NLW Pocket: JavaScript contou com duas vertentes e eu me inscrevi para na trilha Programação Iniciante com JavaScript e Node.js.
 
